@@ -1,0 +1,20 @@
+# jemdoc: nofooter
+## jemdoc: menu{MENU}{index.html}
+# jemdoc: addcss{person.css}, showsource
+= Duo Cheng's Homepage
+
+~~~
+{}{img_left}{lengtoo.jpg}{photo}{175px}{175px}
+*Duo Cheng*\n
+[https://www.eecs.psu.edu/ Department of Electrical Engineering]\n
+[https://www.psu.edu/ The Pennsylvania State University]\n
+~~~
+
+== About
+
+I'm currently a Master student at the Department of Electrical Engineering, the Pennsylvania State University. I received my B.Eng in Information Engineering from [https://www.scut.edu.cn/en/ South China University of Technology].
+
+== Personal
+This site is still under construction...
+
+
